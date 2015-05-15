@@ -105,7 +105,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\EFDataAccess.csproj">
+    <ProjectReference Include="..\EFDataAccess\EFDataAccess.csproj">
       <Project>{9276425f-e3f7-4c4b-bccb-e3b65997007a}</Project>
       <Name>EFDataAccess</Name>
     </ProjectReference>
